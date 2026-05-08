@@ -1,6 +1,6 @@
 # Data Cleaning with SQL
 
-### Introduction
+## Introduction
 
 This project is about cleaning some data using SQL
 
