@@ -4,7 +4,7 @@
 
 This project is about cleaning some data using SQL
 
-### Project Overview
+## Project Overview
 
 There are 6 tables in the database from the CRM platform that needed to be cleaned. Some issues with the data include:
 
@@ -15,7 +15,7 @@ There are 6 tables in the database from the CRM platform that needed to be clean
 - Data Validation
 - Date
 
-### Conclusion
+## Conclusion
 
 In conclusion, data has been cleaned.
 
